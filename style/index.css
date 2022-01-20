@@ -47,6 +47,12 @@ header{
     height: 300px;
     font-size: 20px;
 }
+table,
+th,
+td {
+        border: 1px solid black;
+    }
+    
 .title{
     margin-top: 150px;
     margin-bottom: 20px;
